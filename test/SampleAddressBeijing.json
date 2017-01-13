@@ -1,0 +1,368 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "52",
+               "short_name" : "52",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jiao Da Dong Lu",
+               "short_name" : "Jiao Da Dong Lu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "BeiXiaGuan",
+               "short_name" : "BeiXiaGuan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Haidian Qu",
+               "short_name" : "Haidian Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing Shi",
+               "short_name" : "Beijing Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "52 Jiao Da Dong Lu, BeiXiaGuan, Haidian Qu, Beijing Shi, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.94973299999999,
+               "lng" : 116.350459
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9510819802915,
+                  "lng" : 116.3518079802915
+               },
+               "southwest" : {
+                  "lat" : 39.9483840197085,
+                  "lng" : 116.3491100197085
+               }
+            }
+         },
+         "place_id" : "ChIJ2VayjrdT8DURyCdW-L5Sbc4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beixiaguan",
+               "short_name" : "Beixiaguan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Haidian",
+               "short_name" : "Haidian",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beixiaguan, Haidian, Beijing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.968666,
+                  "lng" : 116.3564088
+               },
+               "southwest" : {
+                  "lat" : 39.9411948,
+                  "lng" : 116.3203163
+               }
+            },
+            "location" : {
+               "lat" : 39.957601,
+               "lng" : 116.335185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.968666,
+                  "lng" : 116.3564088
+               },
+               "southwest" : {
+                  "lat" : 39.9411948,
+                  "lng" : 116.3203163
+               }
+            }
+         },
+         "place_id" : "ChIJ7TpYGMVT8DURRHxkN73jdUk",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haidian",
+               "short_name" : "Haidian",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haidian, Beijing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1609855,
+                  "lng" : 116.3950927
+               },
+               "southwest" : {
+                  "lat" : 39.8866433,
+                  "lng" : 116.0488381
+               }
+            },
+            "location" : {
+               "lat" : 39.959912,
+               "lng" : 116.298055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1609855,
+                  "lng" : 116.3950927
+               },
+               "southwest" : {
+                  "lat" : 39.8866433,
+                  "lng" : 116.0488381
+               }
+            }
+         },
+         "place_id" : "ChIJY61lyDdR8DURicN9xoOvSNM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beijing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0608159,
+                  "lng" : 117.514625
+               },
+               "southwest" : {
+                  "lat" : 39.4427581,
+                  "lng" : 115.4234116
+               }
+            },
+            "location" : {
+               "lat" : 39.904211,
+               "lng" : 116.407395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2164962,
+                  "lng" : 116.7829835
+               },
+               "southwest" : {
+                  "lat" : 39.6612714,
+                  "lng" : 116.0119343
+               }
+            }
+         },
+         "place_id" : "ChIJuSwU55ZS8DURiqkPryBWYrk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beijing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0608159,
+                  "lng" : 117.514625
+               },
+               "southwest" : {
+                  "lat" : 39.4427581,
+                  "lng" : 115.4234116
+               }
+            },
+            "location" : {
+               "lat" : 39.904211,
+               "lng" : 116.407395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0608159,
+                  "lng" : 117.514625
+               },
+               "southwest" : {
+                  "lat" : 39.4427581,
+                  "lng" : 115.4234116
+               }
+            }
+         },
+         "place_id" : "ChIJuSwU55ZS8DURp8_dOLuVd8A",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.56097399999999,
+                  "lng" : 134.7728099
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.56097399999999,
+                  "lng" : 134.7726951
+               },
+               "southwest" : {
+                  "lat" : 18.1618061,
+                  "lng" : 73.5034261
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "交大东路南口",
+               "short_name" : "交大东路南口",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "BeiXiaGuan",
+               "short_name" : "BeiXiaGuan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Haidian Qu",
+               "short_name" : "Haidian Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing Shi",
+               "short_name" : "Beijing Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China, Beijing Shi, Haidian Qu, BeiXiaGuan, 交大东路南口",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.949528,
+               "lng" : 116.348701
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9508769802915,
+                  "lng" : 116.3500499802915
+               },
+               "southwest" : {
+                  "lat" : 39.9481790197085,
+                  "lng" : 116.3473520197085
+               }
+            }
+         },
+         "place_id" : "ChIJV0qj4rdT8DUR39g_ZHTApfE",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}
