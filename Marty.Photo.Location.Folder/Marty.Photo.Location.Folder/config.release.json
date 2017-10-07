@@ -1,0 +1,23 @@
+﻿{
+    "path": "D:/github/mytest/netcore/Application/Cluj.PhotoHelper/src/local",
+    "api_key": "AIzaSyDQw1khA5tgbDFLv4pGRd1_yOp747LnXdE",
+    "photo_src_path": "D:/users/MartyZhou/Pictures/Photos",
+    "photo_dest_path": "D:/users/MartyZhou/Pictures/PhotoHelperDestination",
+    "new_path_format": "{location}/{device}/{location}_{device}_{date}",
+    "excluded_cities": [
+        "beijing", "zhangjiakou", "langfang", "chengde"
+    ],
+    "excluded_area": [
+        {
+            "northeast": {
+                "lat": 40.129694,
+                "lng": 116.585743
+            },
+            "southwest": {
+                "lat": 39.770382,
+                "lng": 116.193793
+            }
+        }
+    ],
+    "time_tolerance": 60
+}
